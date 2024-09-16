@@ -1,0 +1,2 @@
+# NASA-React-App
+An "Astronomy Picture of the Day" app made with the ReactJS framework and the NASA API. The app presents a photo from outer space and includes an interactive sidebar which presents information on the photo.
